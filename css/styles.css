@@ -1,0 +1,628 @@
+/* =============================================
+   Trip Planner – Stylesheet
+   ============================================= */
+
+/* ---------- Reset & base ---------- */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --color-bg:          #f5f7fa;
+  --color-surface:     #ffffff;
+  --color-primary:     #4f6ef7;
+  --color-primary-dk:  #3a56d4;
+  --color-danger:      #e5534b;
+  --color-danger-dk:   #c23b33;
+  --color-text:        #1a1d23;
+  --color-text-muted:  #6b7280;
+  --color-border:      #e2e6ea;
+  --color-accent:      #fbbf24;
+  --radius-sm:         6px;
+  --radius-md:         12px;
+  --radius-lg:         18px;
+  --shadow-sm:         0 1px 4px rgba(0,0,0,.08);
+  --shadow-md:         0 4px 16px rgba(0,0,0,.12);
+  --shadow-lg:         0 8px 32px rgba(0,0,0,.16);
+  --transition:        .2s ease;
+  --font-sans:         'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: var(--color-bg);
+  color: var(--color-text);
+  min-height: 100vh;
+  line-height: 1.6;
+}
+
+img { max-width: 100%; }
+a  { color: var(--color-primary); text-decoration: none; }
+
+/* ---------- Layout helpers ---------- */
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* ---------- Header ---------- */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--color-surface);
+  border-bottom: 1px solid var(--color-border);
+  box-shadow: var(--shadow-sm);
+}
+
+.header-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  cursor: pointer;
+  user-select: none;
+}
+
+.logo svg {
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
+}
+
+/* ---------- Buttons ---------- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 18px;
+  border: none;
+  border-radius: var(--radius-sm);
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background var(--transition), transform var(--transition), box-shadow var(--transition);
+  white-space: nowrap;
+}
+
+.btn:active { transform: scale(.97); }
+
+.btn-primary {
+  background: var(--color-primary);
+  color: #fff;
+}
+.btn-primary:hover { background: var(--color-primary-dk); box-shadow: var(--shadow-sm); }
+
+.btn-outline {
+  background: transparent;
+  color: var(--color-primary);
+  border: 2px solid var(--color-primary);
+}
+.btn-outline:hover { background: var(--color-primary); color: #fff; }
+
+.btn-danger {
+  background: var(--color-danger);
+  color: #fff;
+}
+.btn-danger:hover { background: var(--color-danger-dk); }
+
+.btn-ghost {
+  background: transparent;
+  color: var(--color-text-muted);
+  padding: 6px 10px;
+}
+.btn-ghost:hover { background: var(--color-border); color: var(--color-text); }
+
+.btn-sm {
+  padding: 5px 12px;
+  font-size: 0.8rem;
+}
+
+/* ---------- Views ---------- */
+.view { display: none; }
+.view.active { display: block; }
+
+/* ---------- Dashboard ---------- */
+.page-hero {
+  padding: 40px 0 32px;
+}
+
+.page-hero h1 {
+  font-size: 2.2rem;
+  font-weight: 800;
+  letter-spacing: -.5px;
+}
+
+.subtitle {
+  margin-top: 6px;
+  color: var(--color-text-muted);
+  font-size: 1.05rem;
+}
+
+/* Trips grid */
+.trips-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  padding-bottom: 48px;
+}
+
+/* Trip card */
+.trip-card {
+  background: var(--color-surface);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--color-border);
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform var(--transition), box-shadow var(--transition);
+  display: flex;
+  flex-direction: column;
+}
+
+.trip-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-md);
+}
+
+.trip-card-banner {
+  height: 8px;
+  background: linear-gradient(90deg, var(--color-primary), var(--color-accent));
+}
+
+.trip-card-body {
+  padding: 20px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.trip-card-name {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.trip-card-dest {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
+.trip-card-dest .icon { font-style: normal; }
+
+.trip-card-dates {
+  font-size: 0.85rem;
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+.trip-card-days-badge {
+  margin-top: 4px;
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+.trip-card-footer {
+  padding: 12px 20px;
+  border-top: 1px solid var(--color-border);
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* Empty state */
+.empty-state {
+  text-align: center;
+  padding: 64px 24px;
+  color: var(--color-text-muted);
+}
+
+.empty-state.hidden { display: none; }
+
+.empty-icon {
+  font-size: 3.5rem;
+  margin-bottom: 16px;
+  display: block;
+}
+
+.empty-state h2, .empty-state h3 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 8px;
+}
+
+.empty-state p { font-size: 0.95rem; }
+
+/* ---------- Trip detail ---------- */
+.back-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 0;
+  background: none;
+  border: none;
+  color: var(--color-primary);
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 28px;
+  margin-bottom: 20px;
+  transition: opacity var(--transition);
+}
+
+.back-btn:hover { opacity: .7; }
+.back-btn svg { width: 18px; height: 18px; }
+
+.trip-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--color-border);
+  margin-bottom: 32px;
+}
+
+.trip-header-info h1 {
+  font-size: 1.9rem;
+  font-weight: 800;
+  letter-spacing: -.3px;
+}
+
+.trip-meta {
+  margin-top: 6px;
+  font-size: 0.95rem;
+  color: var(--color-text-muted);
+}
+
+.sep { margin: 0 6px; }
+
+.trip-notes {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  font-style: italic;
+  max-width: 600px;
+}
+
+.trip-header-actions {
+  display: flex;
+  gap: 10px;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+}
+
+/* ---------- Days ---------- */
+.days-section { margin-bottom: 60px; }
+
+.days-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.days-toolbar h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.days-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* Day card */
+.day-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+}
+
+.day-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 20px;
+  background: linear-gradient(90deg, #eef1ff 0%, #f5f7fa 100%);
+  border-bottom: 1px solid var(--color-border);
+  gap: 10px;
+}
+
+.day-card-title {
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--color-primary);
+}
+
+.day-card-date {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+
+.day-card-actions {
+  display: flex;
+  gap: 6px;
+}
+
+/* Activities */
+.activities-list {
+  list-style: none;
+  padding: 12px 20px;
+}
+
+.activity-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.activity-item:last-child { border-bottom: none; }
+
+.activity-check {
+  margin-top: 3px;
+  width: 18px;
+  height: 18px;
+  border: 2px solid var(--color-border);
+  border-radius: 50%;
+  flex-shrink: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color var(--transition), background var(--transition);
+}
+
+.activity-check.done {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.activity-check.done::after {
+  content: '';
+  display: block;
+  width: 5px;
+  height: 9px;
+  border: 2px solid #fff;
+  border-top: none;
+  border-left: none;
+  transform: rotate(45deg) translate(-1px, -1px);
+}
+
+.activity-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.activity-time {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-bottom: 2px;
+}
+
+.activity-title {
+  font-size: 0.95rem;
+  word-break: break-word;
+}
+
+.activity-title.done-text {
+  text-decoration: line-through;
+  color: var(--color-text-muted);
+}
+
+.activity-note {
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+  margin-top: 2px;
+}
+
+.activity-actions {
+  display: flex;
+  gap: 4px;
+  flex-shrink: 0;
+}
+
+.activity-actions button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px 6px;
+  border-radius: var(--radius-sm);
+  color: var(--color-text-muted);
+  font-size: 0.8rem;
+  line-height: 1;
+  transition: background var(--transition), color var(--transition);
+}
+
+.activity-actions button:hover {
+  background: var(--color-border);
+  color: var(--color-text);
+}
+
+.activity-actions .del:hover {
+  background: #fde8e7;
+  color: var(--color-danger);
+}
+
+.day-card-add-activity {
+  padding: 12px 20px;
+  border-top: 1px dashed var(--color-border);
+}
+
+/* ---------- Modal ---------- */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 200;
+  padding: 16px;
+  animation: fadeIn .15s ease;
+}
+
+.modal-overlay.hidden { display: none; }
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+.modal {
+  background: var(--color-surface);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  width: 100%;
+  max-width: 520px;
+  max-height: 90vh;
+  overflow-y: auto;
+  animation: slideUp .2s ease;
+}
+
+@keyframes slideUp {
+  from { transform: translateY(20px); opacity: 0; }
+  to   { transform: translateY(0);    opacity: 1; }
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 24px 16px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.modal-header h2 {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.modal-close {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  line-height: 1;
+  padding: 0 4px;
+  transition: color var(--transition);
+}
+.modal-close:hover { color: var(--color-text); }
+
+.modal-body {
+  padding: 20px 24px 24px;
+}
+
+/* ---------- Forms ---------- */
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 16px;
+}
+
+.form-group label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.form-group input,
+.form-group textarea,
+.form-group select {
+  padding: 9px 12px;
+  border: 1.5px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  font-family: var(--font-sans);
+  font-size: 0.92rem;
+  color: var(--color-text);
+  background: var(--color-bg);
+  transition: border-color var(--transition), box-shadow var(--transition);
+  width: 100%;
+}
+
+.form-group input:focus,
+.form-group textarea:focus,
+.form-group select:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(79,110,247,.15);
+  background: var(--color-surface);
+}
+
+.form-group textarea {
+  resize: vertical;
+  min-height: 80px;
+}
+
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.form-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 6px;
+}
+
+/* ---------- Utility ---------- */
+.hidden { display: none !important; }
+
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 99px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.badge-blue {
+  background: #eef1ff;
+  color: var(--color-primary);
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 600px) {
+  .page-hero h1 { font-size: 1.6rem; }
+  .trip-header { flex-direction: column; }
+  .form-row { grid-template-columns: 1fr; }
+  .trips-grid { grid-template-columns: 1fr; }
+  .header-inner { height: 56px; }
+  .logo { font-size: 1.1rem; }
+}

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trip Planner</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="logo" id="logo-btn" title="Back to trips">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="12" cy="12" r="10"/>
+          <path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+        </svg>
+        Trip Planner
+      </div>
+      <nav class="header-nav">
+        <button class="btn btn-primary" id="new-trip-btn">+ New Trip</button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main content -->
+  <main id="app">
+
+    <!-- ── Dashboard view ── -->
+    <section id="view-dashboard" class="view active">
+      <div class="container">
+        <div class="page-hero">
+          <h1>Your Trips</h1>
+          <p class="subtitle">Plan, organise, and explore your next adventure.</p>
+        </div>
+
+        <div id="trips-empty" class="empty-state hidden">
+          <div class="empty-icon" aria-hidden="true">✈️</div>
+          <h2>No trips yet</h2>
+          <p>Click <strong>+ New Trip</strong> to start planning your first adventure!</p>
+        </div>
+
+        <div id="trips-grid" class="trips-grid"></div>
+      </div>
+    </section>
+
+    <!-- ── Trip detail view ── -->
+    <section id="view-trip" class="view">
+      <div class="container">
+        <button class="back-btn" id="back-to-dashboard">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <polyline points="15 18 9 12 15 6"/>
+          </svg>
+          All Trips
+        </button>
+
+        <div class="trip-header">
+          <div class="trip-header-info">
+            <h1 id="trip-name-display"></h1>
+            <p class="trip-meta">
+              <span id="trip-destination-display"></span>
+              <span class="sep">·</span>
+              <span id="trip-dates-display"></span>
+            </p>
+            <p id="trip-notes-display" class="trip-notes"></p>
+          </div>
+          <div class="trip-header-actions">
+            <button class="btn btn-outline" id="edit-trip-btn">Edit Trip</button>
+            <button class="btn btn-danger" id="delete-trip-btn">Delete Trip</button>
+          </div>
+        </div>
+
+        <!-- Day tabs -->
+        <div class="days-section">
+          <div class="days-toolbar">
+            <h2>Itinerary</h2>
+            <button class="btn btn-primary" id="add-day-btn">+ Add Day</button>
+          </div>
+
+          <div id="days-empty" class="empty-state hidden">
+            <div class="empty-icon" aria-hidden="true">📅</div>
+            <h3>No days planned yet</h3>
+            <p>Click <strong>+ Add Day</strong> to start building your itinerary!</p>
+          </div>
+
+          <div id="days-list" class="days-list"></div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ── Modal ── -->
+  <div id="modal-overlay" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal">
+      <div class="modal-header">
+        <h2 id="modal-title">New Trip</h2>
+        <button class="modal-close" id="modal-close-btn" aria-label="Close">&times;</button>
+      </div>
+      <div class="modal-body" id="modal-body">
+        <!-- Dynamic form injected here -->
+      </div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
