@@ -8,35 +8,56 @@ let state = {
   currentTripId: null,
 };
 
-/* ---------- LocalStorage helpers ---------- */
-const STORAGE_KEY = 'tripplanner_data';
+/* ---------- API helpers ---------- */
+const API_BASE = '/api';
 
-function loadState() {
+async function apiRequest(path, options = {}) {
+  const res = await fetch(`${API_BASE}${path}`, options);
+  if (res.status === 204) return null;
+  if (!res.ok) {
+    const text = await res.text();
+    throw new Error(text || `Request failed: ${res.status}`);
+  }
+  return res.json();
+}
+
+function apiGet(path) {
+  return apiRequest(path);
+}
+
+function apiPost(path, data) {
+  return apiRequest(path, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data),
+  });
+}
+
+function apiPut(path, data) {
+  return apiRequest(path, {
+    method: 'PUT',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data),
+  });
+}
+
+function apiDelete(path) {
+  return apiRequest(path, { method: 'DELETE' });
+}
+
+function apiPatch(path) {
+  return apiRequest(path, { method: 'PATCH' });
+}
+
+async function loadState() {
   try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    if (raw) {
-      const parsed = JSON.parse(raw);
-      if (parsed && Array.isArray(parsed.trips)) {
-        state = parsed;
-      }
-    }
-  } catch (_) {
-    // If parsing fails, start fresh
+    const trips = await apiGet('/trips');
+    state.trips = trips;
+  } catch (err) {
+    console.error('Failed to load trips:', err);
   }
 }
 
-function saveState() {
-  try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
-  } catch (_) {
-    // If storage fails (e.g., private mode), silently continue
-  }
-}
-
-/* ---------- ID generation ---------- */
-function uid() {
-  return Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
-}
 
 /* ---------- Activity helpers ---------- */
 const DEFAULT_SORT_TIME = '99:99';
@@ -151,44 +172,54 @@ function tripFormHTML(trip) {
     </form>`;
 }
 
-function createTrip(formData) {
+async function createTrip(formData) {
   const name = formData.get('name').trim();
   if (!name) return;
-  const trip = {
-    id:          uid(),
-    name,
-    destination: formData.get('destination').trim(),
-    startDate:   formData.get('startDate'),
-    endDate:     formData.get('endDate'),
-    notes:       formData.get('notes').trim(),
-    days:        [],
-  };
-  state.trips.unshift(trip);
-  saveState();
-  closeModal();
-  renderDashboard();
+  try {
+    const trip = await apiPost('/trips', {
+      name,
+      destination: formData.get('destination').trim(),
+      startDate:   formData.get('startDate'),
+      endDate:     formData.get('endDate'),
+      notes:       formData.get('notes').trim(),
+    });
+    state.trips.unshift(trip);
+    closeModal();
+    renderDashboard();
+  } catch (err) {
+    console.error('Failed to create trip:', err);
+  }
 }
 
-function updateTrip(tripId, formData) {
-  const trip = getTripById(tripId);
-  if (!trip) return;
+async function updateTrip(tripId, formData) {
   const name = formData.get('name').trim();
   if (!name) return;
-  trip.name        = name;
-  trip.destination = formData.get('destination').trim();
-  trip.startDate   = formData.get('startDate');
-  trip.endDate     = formData.get('endDate');
-  trip.notes       = formData.get('notes').trim();
-  saveState();
-  closeModal();
-  renderTripDetail(tripId);
+  try {
+    const updated = await apiPut(`/trips/${tripId}`, {
+      name,
+      destination: formData.get('destination').trim(),
+      startDate:   formData.get('startDate'),
+      endDate:     formData.get('endDate'),
+      notes:       formData.get('notes').trim(),
+    });
+    const idx = state.trips.findIndex(t => t.id === tripId);
+    if (idx >= 0) state.trips[idx] = updated;
+    closeModal();
+    renderTripDetail(tripId);
+  } catch (err) {
+    console.error('Failed to update trip:', err);
+  }
 }
 
-function deleteTrip(tripId) {
-  state.trips = state.trips.filter(t => t.id !== tripId);
-  saveState();
-  showView('view-dashboard');
-  renderDashboard();
+async function deleteTrip(tripId) {
+  try {
+    await apiDelete(`/trips/${tripId}`);
+    state.trips = state.trips.filter(t => t.id !== tripId);
+    showView('view-dashboard');
+    renderDashboard();
+  } catch (err) {
+    console.error('Failed to delete trip:', err);
+  }
 }
 
 /* ---------- Dashboard rendering ---------- */
@@ -263,36 +294,49 @@ function dayFormHTML(day) {
     </form>`;
 }
 
-function addDay(tripId, formData) {
-  const trip = getTripById(tripId);
-  if (!trip) return;
+async function addDay(tripId, formData) {
   const label = formData.get('label').trim();
   if (!label) return;
-  trip.days.push({ id: uid(), label, date: formData.get('date'), activities: [] });
-  saveState();
-  closeModal();
-  renderTripDetail(tripId);
+  try {
+    const updated = await apiPost(`/trips/${tripId}/days`, {
+      label,
+      date: formData.get('date'),
+    });
+    const idx = state.trips.findIndex(t => t.id === tripId);
+    if (idx >= 0) state.trips[idx] = updated;
+    closeModal();
+    renderTripDetail(tripId);
+  } catch (err) {
+    console.error('Failed to add day:', err);
+  }
 }
 
-function updateDay(tripId, dayId, formData) {
-  const trip = getTripById(tripId);
-  const day  = trip && trip.days.find(d => d.id === dayId);
-  if (!day) return;
+async function updateDay(tripId, dayId, formData) {
   const label = formData.get('label').trim();
   if (!label) return;
-  day.label = label;
-  day.date  = formData.get('date');
-  saveState();
-  closeModal();
-  renderTripDetail(tripId);
+  try {
+    const updated = await apiPut(`/trips/${tripId}/days/${dayId}`, {
+      label,
+      date: formData.get('date'),
+    });
+    const idx = state.trips.findIndex(t => t.id === tripId);
+    if (idx >= 0) state.trips[idx] = updated;
+    closeModal();
+    renderTripDetail(tripId);
+  } catch (err) {
+    console.error('Failed to update day:', err);
+  }
 }
 
-function deleteDay(tripId, dayId) {
-  const trip = getTripById(tripId);
-  if (!trip) return;
-  trip.days = trip.days.filter(d => d.id !== dayId);
-  saveState();
-  renderTripDetail(tripId);
+async function deleteDay(tripId, dayId) {
+  try {
+    await apiDelete(`/trips/${tripId}/days/${dayId}`);
+    const trip = getTripById(tripId);
+    if (trip) trip.days = trip.days.filter(d => d.id !== dayId);
+    renderTripDetail(tripId);
+  } catch (err) {
+    console.error('Failed to delete day:', err);
+  }
 }
 
 /* ---------- Activity CRUD ---------- */
@@ -320,59 +364,63 @@ function activityFormHTML(activity) {
     </form>`;
 }
 
-function addActivity(tripId, dayId, formData) {
-  const trip = getTripById(tripId);
-  const day  = trip && trip.days.find(d => d.id === dayId);
-  if (!day) return;
+async function addActivity(tripId, dayId, formData) {
   const title = formData.get('title').trim();
   if (!title) return;
-  day.activities.push({
-    id:   uid(),
-    title,
-    time: formData.get('time'),
-    note: formData.get('note').trim(),
-    done: false,
-  });
-  // Sort by time
-  sortActivitiesByTime(day.activities);
-  saveState();
-  closeModal();
-  renderTripDetail(tripId);
+  try {
+    const updated = await apiPost(`/trips/${tripId}/days/${dayId}/activities`, {
+      title,
+      time: formData.get('time'),
+      note: formData.get('note').trim(),
+    });
+    const idx = state.trips.findIndex(t => t.id === tripId);
+    if (idx >= 0) state.trips[idx] = updated;
+    closeModal();
+    renderTripDetail(tripId);
+  } catch (err) {
+    console.error('Failed to add activity:', err);
+  }
 }
 
-function updateActivity(tripId, dayId, actId, formData) {
-  const trip  = getTripById(tripId);
-  const day   = trip && trip.days.find(d => d.id === dayId);
-  const act   = day && day.activities.find(a => a.id === actId);
-  if (!act) return;
+async function updateActivity(tripId, dayId, actId, formData) {
   const title = formData.get('title').trim();
   if (!title) return;
-  act.title = title;
-  act.time  = formData.get('time');
-  act.note  = formData.get('note').trim();
-  sortActivitiesByTime(day.activities);
-  saveState();
-  closeModal();
-  renderTripDetail(tripId);
+  try {
+    const updated = await apiPut(`/trips/${tripId}/days/${dayId}/activities/${actId}`, {
+      title,
+      time: formData.get('time'),
+      note: formData.get('note').trim(),
+    });
+    const idx = state.trips.findIndex(t => t.id === tripId);
+    if (idx >= 0) state.trips[idx] = updated;
+    closeModal();
+    renderTripDetail(tripId);
+  } catch (err) {
+    console.error('Failed to update activity:', err);
+  }
 }
 
-function deleteActivity(tripId, dayId, actId) {
-  const trip = getTripById(tripId);
-  const day  = trip && trip.days.find(d => d.id === dayId);
-  if (!day) return;
-  day.activities = day.activities.filter(a => a.id !== actId);
-  saveState();
-  renderTripDetail(tripId);
+async function deleteActivity(tripId, dayId, actId) {
+  try {
+    await apiDelete(`/trips/${tripId}/days/${dayId}/activities/${actId}`);
+    const trip = getTripById(tripId);
+    const day  = trip && trip.days.find(d => d.id === dayId);
+    if (day) day.activities = day.activities.filter(a => a.id !== actId);
+    renderTripDetail(tripId);
+  } catch (err) {
+    console.error('Failed to delete activity:', err);
+  }
 }
 
-function toggleActivity(tripId, dayId, actId) {
-  const trip = getTripById(tripId);
-  const day  = trip && trip.days.find(d => d.id === dayId);
-  const act  = day && day.activities.find(a => a.id === actId);
-  if (!act) return;
-  act.done = !act.done;
-  saveState();
-  renderTripDetail(tripId);
+async function toggleActivity(tripId, dayId, actId) {
+  try {
+    const updated = await apiPatch(`/trips/${tripId}/days/${dayId}/activities/${actId}/toggle`);
+    const idx = state.trips.findIndex(t => t.id === tripId);
+    if (idx >= 0) state.trips[idx] = updated;
+    renderTripDetail(tripId);
+  } catch (err) {
+    console.error('Failed to toggle activity:', err);
+  }
 }
 
 /* ---------- Trip detail rendering ---------- */
@@ -559,5 +607,4 @@ document.addEventListener('keydown', (e) => {
 });
 
 /* ---------- Boot ---------- */
-loadState();
-renderDashboard();
+loadState().then(() => renderDashboard());
