@@ -11,7 +11,7 @@
 
 | Day | Route | Highlights |
 |-----|-------|------------|
-| 1 | Cupertino → Carlsbad via I-5 | Harris Ranch lunch stop, Fort Tejon, The Flower Fields Tulip Festival, Carlsbad State Beach |
+| 1 | Cupertino → Carlsbad via I-5 | Fort Tejon, The Flower Fields Tulip Festival, Carlsbad State Beach |
 | 2 | Carlsbad (Full Day) | LEGOLAND® California Resort (full day) |
 | 3 | Carlsbad → San Diego → La Jolla | San Diego Zoo, La Jolla Cove, Balboa Park |
 | 4 | Carlsbad → Cupertino | Oceanside Pier, Carlsbad Village, scenic drive home |
@@ -44,16 +44,6 @@
 - Head south on **I-5** through the wide San Joaquin Valley
 
 > 💡 **Tip:** CA-152 (Pacheco Pass) is a scenic mountain crossing — beautiful in spring. Watch for deer in the early morning.
-
-### Mid-Morning – Kettleman City (~2.5 hrs from Cupertino)
-- Quick fuel and snack stop at **Kettleman City**
-- 🍔 Grab an early burger at the **In-N-Out Burger** here — one of California's most famous road-trip stops, and kids love it
-
-### Afternoon – Harris Ranch (~3 hrs from Cupertino)
-- Stop at **Harris Ranch Inn & Restaurant** in Coalinga for lunch 🥩
-  - An iconic Central Valley institution — steaks, burgers, and salads in a spacious family-friendly setting
-  - Great rest stop with clean facilities and a gift shop
-  - Kids can spot the famous cattle ranch from the highway
 
 ### Late Afternoon – Grapevine & Fort Tejon (~5 hrs from Cupertino)
 - Continue south through the valley and climb the **Tejon Pass (Grapevine)** — dramatic mountain scenery
