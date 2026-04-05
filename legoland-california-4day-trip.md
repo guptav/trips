@@ -11,8 +11,8 @@
 
 | Day | Route | Highlights |
 |-----|-------|------------|
-| 1 | Cupertino → Carlsbad | Coastal US-101 drive, Santa Barbara stop, Carlsbad arrival |
-| 2 | Carlsbad (Full Day) | The Flower Fields Tulip Festival, LEGOLAND® California Resort |
+| 1 | Cupertino → Carlsbad via I-5 | Harris Ranch lunch stop, Fort Tejon, The Flower Fields Tulip Festival, Carlsbad State Beach |
+| 2 | Carlsbad (Full Day) | LEGOLAND® California Resort (full day) |
 | 3 | Carlsbad → San Diego → La Jolla | San Diego Zoo, La Jolla Cove, Balboa Park |
 | 4 | Carlsbad → Cupertino | Oceanside Pier, Carlsbad Village, scenic drive home |
 
@@ -31,63 +31,81 @@
 
 ---
 
-## Day 1 — Cupertino to Carlsbad
+## Day 1 — Cupertino to Carlsbad via I-5
 
 **Drive:** ~480 miles | ~7–8 hours (with stops)  
+**Route:** Cupertino → CA-85 S → US-101 S → CA-152 E → **I-5 S** → Carlsbad  
 **Overnight:** Carlsbad, CA (near LEGOLAND)
 
-### Morning – Depart Early (6:30 AM)
-- Depart Cupertino via **US-101 S**
-- Grab breakfast to go or stop at a drive-through before hitting the freeway
-- Drive south through San Jose, Gilroy, and Salinas
+### Morning – Depart Early (6:00 AM)
+- Depart Cupertino via **CA-85 S → US-101 S** toward Gilroy
+- At Gilroy, take **CA-152 E** (Pacheco Pass) to connect to **I-5 S**
+  - Gilroy is the "Garlic Capital of the World" — grab a quick coffee and garlic bread snack if shops are open
+- Head south on **I-5** through the wide San Joaquin Valley
 
-### Mid-Morning – Salinas Valley & Paso Robles (~2.5 hrs from Cupertino)
-- Optional stop in **Paso Robles** for a coffee and stretch break
-- Scenic wine country views along US-101
+> 💡 **Tip:** CA-152 (Pacheco Pass) is a scenic mountain crossing — beautiful in spring. Watch for deer in the early morning.
 
-### Afternoon – Santa Barbara (~4.5 hrs from Cupertino)
-- Stop in **Santa Barbara** for lunch 🍔
-  - Kid-friendly options: **Cielito Restaurant** (Mexican, great for families), **The Habit Burger Grill**
-- Walk along **Stearns Wharf** — great views, sea lions, and ice cream shops
-- Let the kids run around at **Chase Palm Park** (just off the waterfront)
+### Mid-Morning – Kettleman City (~2.5 hrs from Cupertino)
+- Quick fuel and snack stop at **Kettleman City**
+- 🍔 Grab an early burger at the **In-N-Out Burger** here — one of California's most famous road-trip stops, and kids love it
 
-### Late Afternoon – Ventura & Oxnard (~5.5 hrs)
-- Continue south on US-101 through Ventura
-- Pass through **Camarillo Premium Outlets** — optional shopping stop if needed (~20 min off I-101)
+### Afternoon – Harris Ranch (~3 hrs from Cupertino)
+- Stop at **Harris Ranch Inn & Restaurant** in Coalinga for lunch 🥩
+  - An iconic Central Valley institution — steaks, burgers, and salads in a spacious family-friendly setting
+  - Great rest stop with clean facilities and a gift shop
+  - Kids can spot the famous cattle ranch from the highway
 
-### Evening – Arrive Carlsbad (~7 hrs total)
+### Late Afternoon – Grapevine & Fort Tejon (~5 hrs from Cupertino)
+- Continue south through the valley and climb the **Tejon Pass (Grapevine)** — dramatic mountain scenery
+- Optional stop: **Fort Tejon State Historic Park** in Lebec (just off I-5) 🏛️
+  - A preserved 1850s U.S. Army frontier fort with interesting history
+  - Wide open grounds perfect for kids to stretch their legs
+  - Free or low-cost entry; living history demonstrations on select weekends
+- Continue south through Santa Clarita, skirting the **San Fernando Valley**
+
+> 💡 **LA Traffic Tip:** If passing through the LA metro between 3–6 PM, consider a 30-min rest stop near **Magic Mountain/Valencia** to let traffic clear before continuing south on I-5.
+
+### Evening – Arrive Carlsbad & The Flower Fields (arrive ~2:30–3:30 PM) 🌷
+
+**The Flower Fields at Carlsbad Ranch (3:00 PM – 5:30 PM)**
+- Open **March 1 – May 15** — peak bloom typically mid-March to mid-April
+- Address: **5704 Paseo Del Norte, Carlsbad, CA 92008** (right off I-5 Exit 47)
+- **Highlights:**
+  - 50+ acres of giant ranunculus flowers in vivid rainbow rows
+  - **Tulips by the Acre** — dedicated tulip display (the tulip festival centerpiece!)
+  - Sweet pea maze, poinsettia greenhouse, wagon rides, and tractor tours
+  - Stunning views of the Pacific Ocean from the hilltop flower fields
+  - Beautiful for family photos — a magical introduction to Carlsbad!
+- **Tickets:** ~$22 adults / ~$12 kids (3–10) — purchase online in advance
+- Fields close at **6:00 PM** — arriving by 3:00–3:30 PM gives the family a full 2–2.5 hours
+
+> 🌸 **Tulip Festival Tip:** The late afternoon light (3–5 PM) is the best for photos — golden hour over the flower rows is spectacular.
+
+**Other Carlsbad-Area Stops (if time allows before dinner)**
+- 🏖️ **Carlsbad State Beach** — 5 min from the Flower Fields; let the kids dip their toes in the Pacific after the long drive
+- 🛍️ **Carlsbad Premium Outlets** — just off I-5 at Palomar Airport Rd; quick stop if the family needs anything
+
+### Dinner & Check-In
 - Check into your hotel (see recommendations below)
-- Dinner at **Vigilucci's Trattoria** (Italian, Carlsbad Village) or **Bluewater Grill** (seafood)
-- Walk along **Carlsbad State Beach** at sunset 🌅
+- Dinner at **Vigilucci's Trattoria** (Italian, Carlsbad Village) or **Bluewater Grill** (fresh seafood)
+- Optional: Walk along **Carlsbad State Beach** at sunset 🌅
 
-> 💡 **Tip:** Book a hotel within 1–2 miles of LEGOLAND for convenience. The **Sheraton Carlsbad Resort & Spa** or **LEGOLAND Hotel** (pricier but magical for kids) are great options.
+> 💡 **Hotel Tip:** Book a hotel within 1–2 miles of LEGOLAND for Day 2 convenience. The **Sheraton Carlsbad Resort & Spa** or **LEGOLAND Hotel** (pricier but magical for kids) are top picks.
 
 ---
 
-## Day 2 — The Flower Fields Tulip Festival & LEGOLAND® California
+## Day 2 — LEGOLAND® California Resort (Full Day)
 
-**Location:** Carlsbad, CA (all-day)  
+**Location:** Carlsbad, CA  
 **Overnight:** Carlsbad, CA
 
-### Morning – The Flower Fields at Carlsbad Ranch (9:00 AM – Noon) 🌷
-- Open **March 1 – May 15** — peak bloom typically mid-March to mid-April
-- Located just **2 miles from LEGOLAND** (5720 Paseo Del Norte, Carlsbad)
-- **Highlights:**
-  - 50+ acres of giant ranunculus flowers in rainbow rows
-  - **Tulips by the Acre** — dedicated tulip display (the tulip festival centerpiece!)
-  - Sweet pea maze, poinsettia greenhouse, wagon rides, and tractor tours
-  - Beautiful for family photos
-- **Tickets:** ~$22 adults / ~$12 kids (3–10) — purchase online in advance
-- Allow **2–3 hours** to enjoy everything at a relaxed pace
+### Morning – LEGOLAND Opens (10:00 AM)
+- Enjoy a relaxed hotel breakfast before heading over
+- LEGOLAND is **just minutes from most Carlsbad hotels** — no rush
+- Arrive right at **park opening (10:00 AM)** to get the most out of the day
+- Pick up a park map at the gate and plan your first rides before lines build
 
-> 🌸 **Tulip Festival Tip:** The Flower Fields run their "Tulips by the Acre" display throughout the season. Arrive early (before 10 AM) to beat the crowds and get the best photos.
-
-### Midday – Lunch Break (12:00 – 1:00 PM)
-- Grab lunch near LEGOLAND:
-  - **Pizza Port** inside LEGOLAND (convenient, kids love it)
-  - Or eat at the picnic area outside and grab food from a nearby café
-
-### Afternoon & Evening – LEGOLAND® California Resort (1:00 PM – 8:00 PM) 🧱
+### All-Day – LEGOLAND® California Resort (10:00 AM – Park Close) 🧱
 - **Purchase tickets in advance** — combo tickets with SEA LIFE Aquarium save money
 - **Top Rides & Attractions for Families:**
   - 🎢 **Dragon Coaster** — classic family coaster (height req. 40")
@@ -98,12 +116,19 @@
   - 🦁 **Safari Trek** — gentle ride through LEGO animal safari
   - 🚗 **Driving School** — kids aged 3–5 and 6–13 can "drive" LEGO cars (kids get a license!)
   - 🎠 **Imagination Zone** — hands-on LEGO building for all ages
+- **SEA LIFE Carlsbad Aquarium** (adjacent, combo ticket) — sharks, rays, and a 360° ocean tunnel; great if the kids need a change of pace mid-day
 - **Tips:**
-  - Buy the LEGOLAND Annual Pass if visiting a second day — it often pays for itself
-  - Arrive at 1 PM when morning crowds thin out
-  - Use the LEGOLAND app for real-time wait times
+  - Hit the most popular rides (Dragon Coaster, NINJAGO Ride) **first thing** at opening
+  - Use the **LEGOLAND app** for real-time wait times
+  - The park has plenty of dining options (Pizza Port, Granny's Apple Fries, Burger Kitchen)
+  - Buy the LEGOLAND Annual Pass if you might visit again — it often pays for itself in one trip
 
-> 💡 **Pro Tip:** The LEGOLAND Water Park is adjacent and worth adding on a warm day (separate ticket or combo).
+> 💡 **Pro Tip:** The **LEGOLAND Water Park** is adjacent and worth adding on a warm day (separate ticket or combo). Pack swimwear and a change of clothes if you plan to use it.
+
+### Evening – After the Park
+- Head back to the hotel for showers and a rest
+- Dinner at **Vigilucci's Seafood & Steak** or grab casual pizza at **Oggi's Sports Brewhouse** in Carlsbad Village
+- Pick up any LEGO souvenirs at the LEGOLAND store on the way out (better selection and similar prices to outside stores)
 
 ---
 
@@ -170,8 +195,8 @@
   - Ruby's Diner at the end of the pier (classic American food, kids love it)
 
 ### Late Morning – Depart Carlsbad (10:30 AM)
-- Head north on **I-5 N → US-101 N**
-- Option: Take the scenic **Pacific Coast Highway (CA-1)** for the first 50–100 miles — stunning ocean views
+- Head north on **I-5 N**
+- Option: Hop onto the scenic **Pacific Coast Highway (CA-1)** for the first 50–100 miles — stunning ocean views before rejoining I-5
 
 ### Afternoon Stops
 - **San Luis Obispo** (~3.5 hrs from Carlsbad) — great lunch stop
