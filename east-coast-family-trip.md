@@ -1,8 +1,8 @@
-# 7-Day Family Road Trip: Niagara Falls & New York City
+# 9-Day Family Road Trip: New York City, Niagara Falls, Hershey & Washington D.C.
 
-**Route:** Home → New York City, NY → Niagara Falls, NY → Home  
+**Route:** Home → New York City, NY → Niagara Falls, NY → Hershey, PA → Washington, D.C. → Home  
 **Travelers:** 2 Adults, 2 Kids  
-**Total Drive Distance:** ~600 miles (Niagara Falls ↔ NYC round trip)  
+**Total Drive Distance:** ~1,100 miles (NYC → Niagara → Hershey → D.C. round trip)  
 **Best Time to Visit:** Late May – Early September (warm weather, all attractions open)
 
 ---
@@ -12,12 +12,14 @@
 | Day | Route | Highlights |
 |-----|-------|------------|
 | 1 | Home → New York City, NY | Arrival, Times Square first look |
-| 2 | New York City – Midtown | Empire State Building, Grand Central, Central Park |
+| 2 | New York City – Midtown | Empire State Building, Fifth Avenue, Rockefeller Center |
 | 3 | New York City – Downtown | Statue of Liberty, Ellis Island, Brooklyn Bridge |
 | 4 | New York City – Culture Day | American Museum of Natural History, High Line, Chelsea Market |
 | 5 | New York City → Niagara Falls | Scenic drive via Hudson Valley, arrival at the falls |
 | 6 | Niagara Falls (Full Day) | Maid of the Mist, Cave of the Winds, Goat Island, illuminations |
-| 7 | Niagara Falls → Home | Final falls walk, depart for home |
+| 7 | Niagara Falls → Hershey, PA | Scenic drive, Hershey Chocolate World, overnight in Hershey |
+| 8 | Hershey → Washington, D.C. | Drive south, National Mall, Lincoln Memorial, arrival |
+| 9 | Washington, D.C. → Home | Smithsonian museums, monuments, depart for home |
 
 ---
 
@@ -58,7 +60,7 @@
 
 ---
 
-## Day 2 — New York City: Midtown & Central Park
+## Day 2 — New York City: Midtown
 
 **Overnight:** New York City  
 **Best way to get around:** Subway (MetroCard) + walking
@@ -70,24 +72,15 @@
   - Kids love spotting famous landmarks from above
 - Walk south to **Bryant Park** for a quick rest and people-watching
 
-### Midday – Grand Central Terminal & Lunch
-- **Grand Central Terminal** 🚆 – one of the world's most beautiful train stations
-  - Look up at the stunning celestial ceiling in the main concourse
-  - Explore the Lower Concourse food hall for a wide variety of lunch options
-  - Kid favorite: watching the rush of commuters and the famous clock
-- Walk along **Fifth Avenue** – window shopping past Rockefeller Center and St. Patrick's Cathedral
-
-### Afternoon – Central Park ⭐ (Must-Do)
-- **Central Park** 🌳 – 843 acres of green space in the heart of Manhattan
-  - **Carousel** 🎠 – kids' favorite; one of the oldest in the US ($3.25 per ride)
-  - **Wollman Rink** – ice skating in winter, miniature golf and rides in summer
-  - **Belvedere Castle** – free; panoramic park views and nature exhibits for kids
-  - **Strawberry Fields** – peaceful garden memorializing John Lennon
-  - **The Great Lawn** – perfect for a family frisbee or picnic break
-  - **Bethesda Terrace & Fountain** – iconic central landmark; kids love the fountain
+### Midday – Fifth Avenue & Rockefeller Center
+- Stroll **Fifth Avenue** 🛍️ – window shopping past iconic stores, St. Patrick's Cathedral, and classic NYC architecture
+- **Rockefeller Center** 🏙️ – the famous plaza at the heart of Midtown
+  - Visit the **Top of the Rock** observation deck for sweeping views of Central Park and the Manhattan skyline
+  - Kid favorite: the giant LEGO Store and the NBC Studios experience
+- Grab lunch at a nearby deli or the **Rockefeller Center concourse**
 
 ### Evening – Dinner & Lights
-- Dinner in the Upper West Side near Central Park
+- Dinner in Midtown
   - **Shake Shack** (Madison Square Park original or numerous other locations) – a NYC institution
   - **Sarabeth's** – beloved NYC brunch/dinner spot, family-friendly
 - Return to **Times Square** after dark 🌟 – the neon spectacle is even more magical at night
@@ -150,7 +143,7 @@
   - **Hayden Planetarium** – Space Show tickets; an immersive journey through the universe
   - **Hall of Planet Earth** – geology and earth science interactive displays
   - Budget at least 3 hours; kids will want to stay all day
-- Lunch in the museum café or picnic in **Central Park** (across the street)
+- Lunch in the museum café or at a nearby restaurant on the Upper West Side
 
 ### Midday – The High Line ⭐
 - Take the subway south to **Chelsea**
@@ -257,21 +250,96 @@
 
 ---
 
-## Day 7 — Niagara Falls to Home
+## Day 7 — Niagara Falls to Hershey, PA
 
-**Drive:** Varies by destination  
-**Morning:** Final falls moments before departure
+**Drive:** ~340 miles | ~5–6 hours (with stops)  
+**Overnight:** Hershey, PA
 
 ### Morning – Last Look at the Falls
 - Wake up early for a peaceful walk along the **Niagara Gorge Rim Trail** before the crowds arrive
 - Stop at **Prospect Point Overlook** one last time – beautiful in the morning light
-- Grab breakfast at a local café in **Old Falls Street**
+- Grab a quick breakfast at a local café on **Old Falls Street** before hitting the road
+
+### Midday – Hit the Road South
+- Depart Niagara Falls and head south via **I-190 S** into Pennsylvania
+- Drive through the rolling hills of upstate New York and the Appalachian foothills
+- Stop for lunch along the way at a roadside diner or pack snacks to save time
+
+### Afternoon – Hershey Chocolate World 🍫 ⭐ (Must-Do)
+- Arrive in **Hershey, PA** – "The Sweetest Place on Earth"
+- **Hershey's Chocolate World** 🎡 – the ultimate chocolate experience for families
+  - **Chocolate Tour Ride** – a free factory tour ride showing how chocolate is made; kids go wild for it
+  - **Create Your Own Candy Bar** – personalize your own Hershey bar from mold to wrapper
+  - **4D Chocolate Mystery** show – fun multi-sensory movie experience
+  - **Hershey's Unwrapped** experience – behind-the-scenes chocolate tasting
+  - Pick up bags of fresh Hershey's, Reese's, and Kit Kat products from the massive retail shop
+- Check into hotel in Hershey
+  - **Kid-friendly options:** Hershey Lodge, The Hotel Hershey, or nearby budget hotels
+
+### Evening – Hersheypark (Optional)
+- If time allows and kids have energy, **Hersheypark** 🎢 – an amusement park with 70+ rides
+  - Great for families with children of all ages; roller coasters, water rides, and live entertainment
+  - Evening hours often available in summer
+- Dinner at a restaurant near Hershey Chocolate World or at the hotel
+
+> 💡 **Tip:** The Chocolate Tour Ride at Hershey's Chocolate World is FREE – no admission required! Book the premium experiences (Create Your Own Candy Bar, 4D show) online in advance, especially in peak season.
+
+---
+
+## Day 8 — Hershey, PA to Washington, D.C.
+
+**Drive:** ~125 miles | ~2 hours  
+**Overnight:** Washington, D.C. (or nearby Virginia/Maryland suburbs)
+
+### Morning – Easy Drive to D.C.
+- Depart Hershey after a relaxed breakfast
+- Drive south via **I-83 S** and **I-695** toward the capital
+- The drive is short – plenty of time for a full afternoon in D.C.
+
+### Midday – Arrival & National Mall ⭐
+- Check into hotel
+  - **Kid-friendly options:** Hotels near the National Mall, or more affordable options in Arlington, VA or Bethesda, MD (easy Metro access)
+- Head straight to the **National Mall** 🏛️ – America's front lawn
+  - **Lincoln Memorial** – awe-inspiring monument; read the Gettysburg Address carved in stone
+  - **Reflecting Pool** – iconic vista connecting Lincoln Memorial to the Washington Monument
+  - **Washington Monument** 🗼 – the tallest obelisk in the world; reserve timed-entry tickets in advance
+  - **Vietnam Veterans Memorial** – the haunting black granite wall with 58,000+ names
+
+### Afternoon – More Monuments & Memorials
+- **World War II Memorial** – beautiful tribute to the Greatest Generation; kids love the state pillars
+- **Jefferson Memorial** – neoclassical rotunda on the Tidal Basin; stunning views
+- **Martin Luther King Jr. Memorial** – powerful stone of hope sculpture
+- Walk or bike the **Tidal Basin** path; rent pedal boats on the water in warmer months
+
+### Evening – Georgetown Dinner
+- Head to **Georgetown** for dinner 🍽️
+  - **Martin's Tavern** – historic D.C. institution since 1933, family-friendly
+  - **Founding Farmers** – farm-to-table, great for families with varied tastes
+  - Grab **Georgetown Cupcakes** for dessert – a D.C. legend
+- Stroll the charming cobblestone streets of Georgetown along the C&O Canal
+
+> 💡 **Tip:** The Smithsonian museums are ALL FREE – no tickets required. Download the **Smithsonian** app and the **Washington D.C. Metro** app before you go. The Metro is the easiest way to get around the city.
+
+---
+
+## Day 9 — Washington, D.C. to Home
+
+**Drive:** Varies by destination  
+**Theme:** Final morning of museums, then depart
+
+### Morning – Smithsonian Museums ⭐ (Must-Do)
+- **National Air and Space Museum** 🚀 – one of the most visited museums in the world
+  - Real Apollo lunar module, Wright Brothers' Flyer, space suits, and IMAX films
+  - Kids absolutely love the interactive flight simulators
+- **National Museum of Natural History** 🦕 – Hope Diamond, dinosaur fossils, ocean hall
+  - Free entry; budget 2–3 hours to see the highlights
+- **National Museum of American History** 🇺🇸 – the original Star-Spangled Banner, pop culture exhibits, and American innovation galleries
 
 ### Midday – Head for Home
+- Grab a final D.C. bite – a **half-smoke** from **Ben's Chili Bowl** (a D.C. institution since 1958)
 - Load up the car and begin the journey home
-- Drive south via **I-190 S** and **I-90 E** or **I-90 W** depending on your destination
-- Stop for a classic **New York diner** lunch along the way – a regional institution
-- Play road trip games and review your favorite family memories from the trip
+- Stop for a classic roadside lunch on the way
+- Play road trip games and review your favorite family memories from the entire trip
 
 ---
 
@@ -279,13 +347,14 @@
 
 | Category | Estimated Cost (Family of 4) |
 |----------|------------------------------|
-| Hotel (6 nights) | $1,200 – $2,400 |
+| Hotel (8 nights) | $1,600 – $3,200 |
 | Niagara Adventure Pass | ~$200 |
 | NYC CityPASS or Explorer Pass | ~$400 |
-| Meals (7 days) | $700 – $1,200 |
-| Gas & tolls | $150 – $300 |
+| Hershey Chocolate World experiences | ~$150 |
+| Meals (9 days) | $900 – $1,500 |
+| Gas & tolls | $250 – $450 |
 | Miscellaneous & souvenirs | $200 – $400 |
-| **Total Estimated** | **$2,850 – $4,900** |
+| **Total Estimated** | **$3,700 – $6,300** |
 
 > 💡 **Money-Saving Tips:**
 > - Book hotels 2–3 months in advance for best rates
@@ -302,7 +371,11 @@
 | Niagara Falls | Maid of the Mist | All ages |
 | Niagara Falls | Cave of the Winds | 5+ |
 | Niagara Falls | Illuminations (evening) | All ages |
-| New York City | Central Park | All ages |
+| Hershey, PA | Hershey's Chocolate World | All ages |
+| Hershey, PA | Create Your Own Candy Bar | 5+ |
+| Washington, D.C. | National Air and Space Museum | All ages |
+| Washington, D.C. | Lincoln Memorial & National Mall | All ages |
+| Washington, D.C. | National Museum of Natural History | 4+ |
 | New York City | American Museum of Natural History | 4+ |
 | New York City | Statue of Liberty & Ellis Island | 6+ |
 | New York City | Brooklyn Bridge Walk | 5+ |
