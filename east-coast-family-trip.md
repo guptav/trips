@@ -1,6 +1,6 @@
 # 7-Day Family Road Trip: Niagara Falls & New York City
 
-**Route:** Home → Niagara Falls, NY → New York City, NY → Home  
+**Route:** Home → New York City, NY → Niagara Falls, NY → Home  
 **Travelers:** 2 Adults, 2 Kids  
 **Total Drive Distance:** ~600 miles (Niagara Falls ↔ NYC round trip)  
 **Best Time to Visit:** Late May – Early September (warm weather, all attractions open)
@@ -11,13 +11,13 @@
 
 | Day | Route | Highlights |
 |-----|-------|------------|
-| 1 | Home → Niagara Falls, NY | Arrival, Maid of the Mist, evening illuminations |
-| 2 | Niagara Falls (Full Day) | Cave of the Winds, Goat Island, state park hikes |
-| 3 | Niagara Falls → New York City | Scenic drive, Hudson Valley, arrival in NYC |
-| 4 | New York City – Midtown | Times Square, Central Park, Empire State Building |
-| 5 | New York City – Downtown | Statue of Liberty, Ellis Island, Brooklyn Bridge |
-| 6 | New York City – Culture Day | American Museum of Natural History, High Line, Chelsea Market |
-| 7 | New York City → Home | Final stroll, souvenirs, depart for home |
+| 1 | Home → New York City, NY | Arrival, Times Square first look |
+| 2 | New York City – Midtown | Empire State Building, Grand Central, Central Park |
+| 3 | New York City – Downtown | Statue of Liberty, Ellis Island, Brooklyn Bridge |
+| 4 | New York City – Culture Day | American Museum of Natural History, High Line, Chelsea Market |
+| 5 | New York City → Niagara Falls | Scenic drive via Hudson Valley, arrival at the falls |
+| 6 | Niagara Falls (Full Day) | Maid of the Mist, Cave of the Winds, Goat Island, illuminations |
+| 7 | Niagara Falls → Home | Final falls walk, depart for home |
 
 ---
 
@@ -35,104 +35,30 @@
 
 ---
 
-## Day 1 — Arrival at Niagara Falls
+## Day 1 — Arrival in New York City
 
 **Drive:** Varies by starting location  
-**Overnight:** Niagara Falls, NY (or Niagara Falls, ON if crossing to Canada)
-
-### Afternoon – Settle In & First Glimpse
-- Check into hotel near the falls
-  - **Kid-friendly options:** Sheraton at the Falls, The Giacomo, or Niagara Falls State Park campgrounds
-- Head straight to **Niagara Falls State Park** 🌊 – America's oldest state park (est. 1885)
-  - Walk to **Prospect Point Overlook** for your first dramatic view of American Falls
-  - Let the kids take in the sheer power and roar of the falls – it's unforgettable
-
-### Evening – Maid of the Mist & Illuminations ⭐
-- **Maid of the Mist** 🚢 – iconic boat tour right to the base of Horseshoe Falls
-  - Blue ponchos provided; everyone WILL get wet – embrace it!
-  - Kids absolutely love the spray and the thundering wall of water
-  - Operating season: late April – early November
-- Walk the **Niagara Gorge Rim Trail** as sunset approaches
-- Stay for the **Niagara Falls Illuminations** 🌈 – falls are lit in brilliant colors after dark (nightly, year-round)
-- Dinner along **Old Falls Street** – family-friendly restaurants with falls views
-
-> 💡 **Tip:** Purchase the **Niagara Falls Adventure Pass** for bundled access to Maid of the Mist, Cave of the Winds, and other attractions. Saves money for families!
-
----
-
-## Day 2 — Niagara Falls (Full Day)
-
-**Overnight:** Niagara Falls, NY  
-**Total Walking:** ~4–6 miles
-
-### Morning – Cave of the Winds ⭐ (Must-Do)
-- **Cave of the Winds** 🌬️ – descend by elevator to the base of Bridal Veil Falls
-  - Wooden walkways lead to the "Hurricane Deck" – just feet from the cascading water
-  - Sandals and ponchos provided; prepare to get completely soaked!
-  - Rated one of the most thrilling family experiences on the East Coast
-- **Goat Island** – accessible by footbridge from the state park
-  - Walk to the **Three Sisters Islands** – small islands in the rapids above the falls
-  - Excellent photo spots looking upstream at the rushing Niagara River
-
-### Midday – Picnic in the State Park
-- Pack a picnic or grab food from the **State Park Café**
-- Eat at one of the scenic overlooks on Goat Island
-- Kids can play on the grass and splash in the fountain near the visitor center
-
-### Afternoon – Aquarium & Discovery Center
-- **Niagara Falls Aquarium** 🐟 – one of the oldest inland aquariums in North America
-  - Sea lion shows, shark touch tanks, and freshwater fish exhibits
-  - Perfect for younger children; about 1.5–2 hours
-- **Niagara USA Discovery Center** – interactive exhibits on the history and geology of the falls
-  - Learn how Niagara Falls was formed 12,000 years ago (kids love the ice age story)
-
-### Evening – Optional Canada Visit
-- If you have passports, cross the **Rainbow Bridge** on foot into **Niagara Falls, Ontario**
-  - The Canadian side offers the most sweeping panoramic view of Horseshoe Falls
-  - Visit **Table Rock Welcome Centre** – literally at the edge of the falls
-  - Walk **Clifton Hill** – family-friendly entertainment strip with mini golf, arcades, and themed restaurants
-- Return to the US side for dinner and bed
-
-> 💡 **Tip:** US and Canadian citizens need a valid passport (or passport card) to cross the Rainbow Bridge. Plan ahead!
-
----
-
-## Day 3 — Niagara Falls to New York City
-
-**Drive:** ~380 miles | ~6–7 hours (with stops)  
 **Overnight:** New York City, NY
 
-### Morning – Hit the Road (7:00 AM)
-- Depart Niagara Falls early to beat traffic
-- Drive east on **I-90 E** (New York State Thruway) through upstate New York
-- Stop in **Rochester, NY** for breakfast (~1 hour from Niagara)
-  - Try a **garbage plate** at Nick Tahou's – a local Rochester classic (adventurous eaters only!)
-  - Or grab a familiar breakfast at a local diner
-
-### Midday – Hudson Valley Scenic Stop
-- Exit the thruway for a scenic detour through the **Hudson Valley**
-- **West Point Military Academy** – impressive riverside campus; visitor center and museum are free
-  - Kids find the cannons, uniforms, and military history fascinating
-- **Storm King Art Center** 🗿 – world-class outdoor sculpture park (optional; admission required)
-- Grab lunch at a local deli or riverside café in **Cold Spring, NY**
-
-### Afternoon – Approach New York City
-- Re-join **I-87 S** heading toward the city
-- Consider entering via the **George Washington Bridge** for a dramatic first view of the Manhattan skyline
-- Check into hotel
+### Afternoon – Settle In & First Glimpse
+- Check into hotel in Midtown
   - **Kid-friendly options:** Midtown hotels near Times Square, or New Jersey hotels (cheaper, easy PATH train access)
+- Head to **Times Square** 🗽 – let the electric energy and towering billboards sink in
+  - Walk the pedestrian plazas and take in the buzz of one of the world's busiest intersections
+  - Let the kids pick up an NYC souvenir from a street vendor
 
-### Evening – Times Square First Look 🗽
-- Walk to **Times Square** – let the energy and lights sink in
+### Evening – Times Square First Look ⭐
 - Dinner at a family-friendly restaurant in Midtown
   - Try **Ellen's Stardust Diner** – singing waitstaff, classic American food, kids go wild for it
+- Stroll **Times Square after dark** 🌟 – the neon spectacle is even more magical at night
+- Try a **New York-style pizza slice** before heading back – a must on night one!
 - Early night to rest up for big NYC days ahead
 
-> 💡 **Tip:** Buy a **New York CityPASS** or **NYC Explorer Pass** for bundled admission to top attractions. Significant savings for families of four.
+> 💡 **Tip:** Buy a **New York CityPASS** or **NYC Explorer Pass** on arrival for bundled admission to top attractions. Significant savings for families of four.
 
 ---
 
-## Day 4 — New York City: Midtown & Central Park
+## Day 2 — New York City: Midtown & Central Park
 
 **Overnight:** New York City  
 **Best way to get around:** Subway (MetroCard) + walking
@@ -171,7 +97,7 @@
 
 ---
 
-## Day 5 — New York City: Statue of Liberty & Downtown
+## Day 3 — New York City: Statue of Liberty & Downtown
 
 **Overnight:** New York City  
 **Highlight:** America's most iconic monument
@@ -212,7 +138,7 @@
 
 ---
 
-## Day 6 — New York City: Culture & the High Line
+## Day 4 — New York City: Culture & the High Line
 
 **Overnight:** New York City  
 **Theme:** Museums, parks, and local neighborhoods
@@ -242,34 +168,109 @@
   - Rent bikes or CitiBikes for a fun family ride
   - Piers 25 and 26 (Hudson River Park) have playgrounds, mini golf, and a rock-climbing wall
 
-### Evening – Farewell Dinner in NYC
+### Evening – Pack Up & Farewell to NYC
 - Choose a memorable last dinner in the city
   - **Junior's Restaurant** (Midtown) – famous for NYC cheesecake; classic diner fare
   - **John's of Times Square** – whole-pie coal-fired pizza in a stunning old theater
   - **Eataly NYC** (Flatiron) – Italian food hall; something for every taste
 - Take a final walk through the neighborhood your family loved most
-- Pack bags and prep for the drive home tomorrow
+- Pack bags tonight – early departure for Niagara Falls tomorrow
 
 > 💡 **Tip:** NYC has over 90 museums. If you have time, also consider: **9/11 Memorial & Museum**, **Intrepid Sea, Air & Space Museum** (kids love the aircraft carriers and space shuttle), or **The Metropolitan Museum of Art**.
 
 ---
 
-## Day 7 — New York City to Home
+## Day 5 — New York City to Niagara Falls
+
+**Drive:** ~380 miles | ~6–7 hours (with stops)  
+**Overnight:** Niagara Falls, NY (or Niagara Falls, ON if crossing to Canada)
+
+### Morning – Hit the Road (7:00 AM)
+- Depart NYC early to beat traffic heading out of the city
+- Drive north via **I-87 N** (New York State Thruway) through the Hudson Valley
+- Stop in **Cold Spring, NY** for breakfast (~1.5 hours from NYC)
+  - Grab food at a local café on the main street with views of the Hudson River
+  - Walk **Bowdoin Park** overlook for a quick scenic stop
+
+### Midday – Upstate New York Scenic Stop
+- Continue north on **I-87 N**, then west on **I-90 W** (New York State Thruway)
+- Stop in **Rochester, NY** for lunch (~4 hours from NYC)
+  - Try a **garbage plate** at Nick Tahou's – a beloved Rochester classic (adventurous eaters only!)
+  - Or grab a familiar meal at a local diner
+- **West Point Military Academy** (optional detour off I-87 before Albany) – impressive riverside campus; visitor center and museum are free
+  - Kids find the cannons, uniforms, and military history fascinating
+
+### Afternoon – Arrival at Niagara Falls
+- Arrive in Niagara Falls and check into hotel
+  - **Kid-friendly options:** Sheraton at the Falls, The Giacomo, or Niagara Falls State Park campgrounds
+- Head straight to **Niagara Falls State Park** 🌊 – America's oldest state park (est. 1885)
+  - Walk to **Prospect Point Overlook** for your first dramatic view of American Falls
+  - Let the kids take in the sheer power and roar of the falls – it's unforgettable
+
+### Evening – Maid of the Mist & Illuminations ⭐
+- **Maid of the Mist** 🚢 – iconic boat tour right to the base of Horseshoe Falls
+  - Blue ponchos provided; everyone WILL get wet – embrace it!
+  - Kids absolutely love the spray and the thundering wall of water
+  - Operating season: late April – early November
+- Walk the **Niagara Gorge Rim Trail** as sunset approaches
+- Stay for the **Niagara Falls Illuminations** 🌈 – falls are lit in brilliant colors after dark (nightly, year-round)
+- Dinner along **Old Falls Street** – family-friendly restaurants with falls views
+
+> 💡 **Tip:** Purchase the **Niagara Falls Adventure Pass** for bundled access to Maid of the Mist, Cave of the Winds, and other attractions. Saves money for families!
+
+---
+
+## Day 6 — Niagara Falls (Full Day)
+
+**Overnight:** Niagara Falls, NY  
+**Total Walking:** ~4–6 miles
+
+### Morning – Cave of the Winds ⭐ (Must-Do)
+- **Cave of the Winds** 🌬️ – descend by elevator to the base of Bridal Veil Falls
+  - Wooden walkways lead to the "Hurricane Deck" – just feet from the cascading water
+  - Sandals and ponchos provided; prepare to get completely soaked!
+  - Rated one of the most thrilling family experiences on the East Coast
+- **Goat Island** – accessible by footbridge from the state park
+  - Walk to the **Three Sisters Islands** – small islands in the rapids above the falls
+  - Excellent photo spots looking upstream at the rushing Niagara River
+
+### Midday – Picnic in the State Park
+- Pack a picnic or grab food from the **State Park Café**
+- Eat at one of the scenic overlooks on Goat Island
+- Kids can play on the grass and splash in the fountain near the visitor center
+
+### Afternoon – Aquarium & Discovery Center
+- **Niagara Falls Aquarium** 🐟 – one of the oldest inland aquariums in North America
+  - Sea lion shows, shark touch tanks, and freshwater fish exhibits
+  - Perfect for younger children; about 1.5–2 hours
+- **Niagara USA Discovery Center** – interactive exhibits on the history and geology of the falls
+  - Learn how Niagara Falls was formed 12,000 years ago (kids love the ice age story)
+
+### Evening – Optional Canada Visit
+- If you have passports, cross the **Rainbow Bridge** on foot into **Niagara Falls, Ontario**
+  - The Canadian side offers the most sweeping panoramic view of Horseshoe Falls
+  - Visit **Table Rock Welcome Centre** – literally at the edge of the falls
+  - Walk **Clifton Hill** – family-friendly entertainment strip with mini golf, arcades, and themed restaurants
+- Return to the US side for dinner and bed
+
+> 💡 **Tip:** US and Canadian citizens need a valid passport (or passport card) to cross the Rainbow Bridge. Plan ahead!
+
+---
+
+## Day 7 — Niagara Falls to Home
 
 **Drive:** Varies by destination  
-**Morning:** Final NYC moments before departure
+**Morning:** Final falls moments before departure
 
-### Morning – Brunch & Last Looks
-- Walk to a local bakery or diner for a leisurely farewell breakfast
-  - **Russ & Daughters Café** (Lower East Side) – iconic NYC Jewish deli, legendary bagels and lox
-  - **Clinton St. Baking Company** – famous pancakes; arrive early or expect a wait
-- Stop for any last-minute souvenirs in Midtown or at a street vendor
-- Visit the **TKTS Booth** area in Times Square one last time for photos
+### Morning – Last Look at the Falls
+- Wake up early for a peaceful walk along the **Niagara Gorge Rim Trail** before the crowds arrive
+- Stop at **Prospect Point Overlook** one last time – beautiful in the morning light
+- Grab breakfast at a local café in **Old Falls Street**
 
 ### Midday – Head for Home
 - Load up the car and begin the journey home
-- Consider a scenic route through **Connecticut** or **New Jersey** for variety
-- Stop for a classic **New Jersey diner** lunch on the way – a regional institution
+- Drive south via **I-190 S** and **I-90 E** or **I-90 W** depending on your destination
+- Stop for a classic **New York diner** lunch along the way – a regional institution
 - Play road trip games and review your favorite family memories from the trip
 
 ---
