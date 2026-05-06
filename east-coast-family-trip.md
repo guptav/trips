@@ -1,4 +1,4 @@
-# 9-Day Family Road Trip: New York City, Niagara Falls, Hershey & Washington D.C.
+# 8-Day Family Road Trip: New York City, Niagara Falls, Hershey & Washington D.C.
 
 **Route:** Home → New York City, NY → Niagara Falls, NY → Hershey, PA → Washington, D.C. → Home  
 **Travelers:** 2 Adults, 2 Kids  
@@ -14,12 +14,11 @@
 | 1 | Home → New York City, NY | Arrival, Times Square first look |
 | 2 | New York City – Midtown | Empire State Building, Fifth Avenue, Rockefeller Center |
 | 3 | New York City – Downtown | Statue of Liberty, Ellis Island, Brooklyn Bridge |
-| 4 | New York City – Culture Day | American Museum of Natural History, High Line, Chelsea Market |
-| 5 | New York City → Niagara Falls | Scenic drive via Hudson Valley, arrival at the falls |
-| 6 | Niagara Falls (Full Day) | Maid of the Mist, Cave of the Winds, Goat Island, illuminations |
-| 7 | Niagara Falls → Hershey, PA | Scenic drive, Hershey Chocolate World, overnight in Hershey |
-| 8 | Hershey → Washington, D.C. | Drive south, National Mall, Lincoln Memorial, arrival |
-| 9 | Washington, D.C. → Home | Smithsonian museums, monuments, depart for home |
+| 4 | New York City → Niagara Falls | Scenic drive via Hudson Valley, arrival at the falls |
+| 5 | Niagara Falls (Full Day) | Maid of the Mist, Cave of the Winds, Goat Island, illuminations |
+| 6 | Niagara Falls → Hershey, PA | Scenic drive, Hershey Chocolate World, overnight in Hershey |
+| 7 | Hershey → Washington, D.C. | Drive south, National Mall, Lincoln Memorial, arrival |
+| 8 | Washington, D.C. → Home | Smithsonian museums, monuments, depart for home |
 
 ---
 
@@ -131,49 +130,7 @@
 
 ---
 
-## Day 4 — New York City: Culture & the High Line
-
-**Overnight:** New York City  
-**Theme:** Museums, parks, and local neighborhoods
-
-### Morning – American Museum of Natural History ⭐
-- **American Museum of Natural History** 🦕 – one of the world's greatest natural history museums
-  - **Hall of Ocean Life** – the 94-foot blue whale suspended from the ceiling is awe-inspiring
-  - **Dinosaur Halls** – massive fossil collections including T. rex and Triceratops
-  - **Hayden Planetarium** – Space Show tickets; an immersive journey through the universe
-  - **Hall of Planet Earth** – geology and earth science interactive displays
-  - Budget at least 3 hours; kids will want to stay all day
-- Lunch in the museum café or at a nearby restaurant on the Upper West Side
-
-### Midday – The High Line ⭐
-- Take the subway south to **Chelsea**
-- **The High Line** 🌿 – elevated park built on a former freight rail line above the streets of Manhattan
-  - 1.45-mile linear park with gardens, art installations, and food vendors
-  - Spectacular views of Hudson Yards, the Hudson River, and the NYC skyline
-  - Free to enter; open year-round
-- End the walk at **Hudson Yards** – explore the futuristic "Vessel" sculpture (book timed entry)
-
-### Afternoon – Chelsea Market & the Waterfront
-- **Chelsea Market** 🛍️ – beloved food hall in a former Nabisco factory
-  - Dozens of vendors selling artisan foods, bakery items, seafood, and more
-  - Great spot for an afternoon snack or early dinner
-- Walk along the **Hudson River Greenway** – bike and pedestrian path along the waterfront
-  - Rent bikes or CitiBikes for a fun family ride
-  - Piers 25 and 26 (Hudson River Park) have playgrounds, mini golf, and a rock-climbing wall
-
-### Evening – Pack Up & Farewell to NYC
-- Choose a memorable last dinner in the city
-  - **Junior's Restaurant** (Midtown) – famous for NYC cheesecake; classic diner fare
-  - **John's of Times Square** – whole-pie coal-fired pizza in a stunning old theater
-  - **Eataly NYC** (Flatiron) – Italian food hall; something for every taste
-- Take a final walk through the neighborhood your family loved most
-- Pack bags tonight – early departure for Niagara Falls tomorrow
-
-> 💡 **Tip:** NYC has over 90 museums. If you have time, also consider: **9/11 Memorial & Museum**, **Intrepid Sea, Air & Space Museum** (kids love the aircraft carriers and space shuttle), or **The Metropolitan Museum of Art**.
-
----
-
-## Day 5 — New York City to Niagara Falls
+## Day 4 — New York City to Niagara Falls
 
 **Drive:** ~380 miles | ~6–7 hours (with stops)  
 **Overnight:** Niagara Falls, NY (or Niagara Falls, ON if crossing to Canada)
@@ -213,7 +170,7 @@
 
 ---
 
-## Day 6 — Niagara Falls (Full Day)
+## Day 5 — Niagara Falls (Full Day)
 
 **Overnight:** Niagara Falls, NY  
 **Total Walking:** ~4–6 miles
@@ -250,7 +207,7 @@
 
 ---
 
-## Day 7 — Niagara Falls to Hershey, PA
+## Day 6 — Niagara Falls to Hershey, PA
 
 **Drive:** ~340 miles | ~5–6 hours (with stops)  
 **Overnight:** Hershey, PA
@@ -286,7 +243,7 @@
 
 ---
 
-## Day 8 — Hershey, PA to Washington, D.C.
+## Day 7 — Hershey, PA to Washington, D.C.
 
 **Drive:** ~125 miles | ~2 hours  
 **Overnight:** Washington, D.C. (or nearby Virginia/Maryland suburbs)
@@ -322,7 +279,7 @@
 
 ---
 
-## Day 9 — Washington, D.C. to Home
+## Day 8 — Washington, D.C. to Home
 
 **Drive:** Varies by destination  
 **Theme:** Final morning of museums, then depart
@@ -347,14 +304,14 @@
 
 | Category | Estimated Cost (Family of 4) |
 |----------|------------------------------|
-| Hotel (8 nights) | $1,600 – $3,200 |
+| Hotel (7 nights) | $1,400 – $2,800 |
 | Niagara Adventure Pass | ~$200 |
 | NYC CityPASS or Explorer Pass | ~$400 |
 | Hershey Chocolate World experiences | ~$150 |
-| Meals (9 days) | $900 – $1,500 |
+| Meals (8 days) | $800 – $1,350 |
 | Gas & tolls | $250 – $450 |
 | Miscellaneous & souvenirs | $200 – $400 |
-| **Total Estimated** | **$3,700 – $6,300** |
+| **Total Estimated** | **$3,200 – $5,550** |
 
 > 💡 **Money-Saving Tips:**
 > - Book hotels 2–3 months in advance for best rates
@@ -376,8 +333,6 @@
 | Washington, D.C. | National Air and Space Museum | All ages |
 | Washington, D.C. | Lincoln Memorial & National Mall | All ages |
 | Washington, D.C. | National Museum of Natural History | 4+ |
-| New York City | American Museum of Natural History | 4+ |
 | New York City | Statue of Liberty & Ellis Island | 6+ |
 | New York City | Brooklyn Bridge Walk | 5+ |
-| New York City | The High Line | All ages |
 | New York City | Empire State Building | All ages |
