@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1800" viewBox="0 0 1400 1800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f1f8e9"/>
+      <stop offset="100%" stop-color="#e3f2fd"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 56px 'Arial', sans-serif; fill: #1b5e20; }
+      .subtitle { font: 500 28px 'Arial', sans-serif; fill: #2e7d32; }
+      .section { font: 700 34px 'Arial', sans-serif; fill: #0d47a1; }
+      .metricNum { font: 700 44px 'Arial', sans-serif; fill: #bf360c; }
+      .metricLabel { font: 500 23px 'Arial', sans-serif; fill: #37474f; }
+      .body { font: 500 24px 'Arial', sans-serif; fill: #263238; }
+      .small { font: 500 21px 'Arial', sans-serif; fill: #37474f; }
+      .card { fill: #ffffff; stroke: #cfd8dc; stroke-width: 2; rx: 18; ry: 18; }
+    </style>
+  </defs>
+
+  <rect width="1400" height="1800" fill="url(#bg)"/>
+
+  <text x="700" y="92" text-anchor="middle" class="title">Troop 582 Camping Trip Report</text>
+  <text x="700" y="138" text-anchor="middle" class="subtitle">Joseph Grant Park – Big Oak Group Camp | May 23–24, 2025</text>
+
+  <rect x="70" y="180" width="1260" height="190" class="card"/>
+  <text x="120" y="235" class="section">At a Glance</text>
+  <text x="120" y="285" class="body">12 Scouts • 3 ASMs • 2 Camping Nights</text>
+  <text x="120" y="330" class="small">Big Oak Group Camp offered great shade under the central oak tree.</text>
+
+  <rect x="70" y="410" width="1260" height="330" class="card"/>
+  <text x="120" y="465" class="section">Key Outcomes</text>
+
+  <text x="120" y="535" class="metricNum">33</text>
+  <text x="210" y="535" class="metricLabel">Requirements signed off</text>
+
+  <text x="120" y="595" class="metricNum">2</text>
+  <text x="210" y="595" class="metricLabel">TTFC sessions (tools + first aid)</text>
+
+  <text x="120" y="655" class="metricNum">1</text>
+  <text x="210" y="655" class="metricLabel">Service project (Dutch Flat Trailhead)</text>
+
+  <text x="760" y="535" class="metricNum">5</text>
+  <text x="850" y="535" class="metricLabel">Mile hike (Yerba Buena Trail)</text>
+
+  <text x="760" y="595" class="metricNum">2</text>
+  <text x="850" y="595" class="metricLabel">Campfires (1 joint with Troop 453/2453)</text>
+
+  <text x="760" y="655" class="metricNum">2</text>
+  <text x="850" y="655" class="metricLabel">Dutch oven dishes (lasagna + cobbler)</text>
+
+  <rect x="70" y="780" width="610" height="850" class="card"/>
+  <text x="120" y="835" class="section">Saturday, May 23</text>
+  <text x="120" y="890" class="body">10:00 AM  Meet at church with sack lunch</text>
+  <text x="120" y="935" class="body">10:30 AM  Depart on time</text>
+  <text x="120" y="980" class="body">11:30 AM  Arrive and set up tents</text>
+  <text x="120" y="1025" class="body">12:30 PM  Lunch in the shade</text>
+  <text x="120" y="1070" class="body">1:15 PM   Campfire skit practice</text>
+  <text x="120" y="1115" class="body">2:00 PM   TTFC (4 hrs total) + Scout's Own</text>
+  <text x="120" y="1160" class="small">Thanks to Miss Leonard for leading training.</text>
+  <text x="120" y="1205" class="body">6:00 PM   Dinner (dutch oven meals)</text>
+  <text x="120" y="1250" class="body">8:00 PM   Joint campfire with Troop 453/2453</text>
+  <text x="120" y="1295" class="small">Troop 582 won best skit.</text>
+  <text x="120" y="1340" class="body">9:30 PM   Astronomy party</text>
+  <text x="120" y="1385" class="small">Observed moon craters, Jupiter and moons, distant galaxies.</text>
+  <text x="120" y="1430" class="body">10:15 PM  Lights out</text>
+
+  <rect x="720" y="780" width="610" height="850" class="card"/>
+  <text x="770" y="835" class="section">Sunday, May 24</text>
+  <text x="770" y="890" class="body">8:00 AM   Wake up</text>
+  <text x="770" y="935" class="body">9:30 AM   Breakfast complete</text>
+  <text x="770" y="980" class="body">9:45 AM   Depart to Dutch Flat Trailhead</text>
+  <text x="770" y="1025" class="body">10:00 AM  Service project (10:00–12:00)</text>
+  <text x="770" y="1070" class="small">Cleared overgrown branches (up to 1-inch diameter).</text>
+  <text x="770" y="1115" class="small">Learned native plants including wild cucumber.</text>
+  <text x="770" y="1160" class="body">12:15 PM  Return to camp and lunch</text>
+  <text x="770" y="1205" class="body">5:00 PM   Yerba Buena Trail hike (~3 hrs)</text>
+  <text x="770" y="1250" class="body">Grant Lake stop and hangout</text>
+  <text x="770" y="1295" class="body">6:00 PM   Dinner</text>
+  <text x="770" y="1340" class="body">8:00 PM   Troop campfire</text>
+  <text x="770" y="1385" class="small">Amazing MC, songs, skits, and horror-comedy story.</text>
+
+  <text x="700" y="1715" text-anchor="middle" class="subtitle">
+    Adventure • Service • Skills • Teamwork — A memorable weekend for Troop 582
+  </text>
+</svg>
