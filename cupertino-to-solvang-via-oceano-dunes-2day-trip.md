@@ -101,7 +101,7 @@
 
 - **Recommended stays (walkable downtown):**
   - **Hotel Corque** – upscale, modern, pool, right on Mission Drive; rooftop bar views
-  - **Landsby Hotel** – boutique Danish-themed boutique hotel in the heart of downtown
+  - **Landsby Hotel** – Danish-themed boutique hotel in the heart of downtown
   - **Mirabelle Inn** – cozy, historic Danish-style inn; breakfast included
   - **Hadsten House** – courtyard, fireplace rooms, walk to everything
 - Drop bags and freshen up before the evening
